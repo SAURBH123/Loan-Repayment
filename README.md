@@ -8,25 +8,12 @@ number of borrowers based on purpose of loan we did count plot shown below</br>
 
 ## Performance of DecisionTreeClassifier model
   
-  precision    recall  f1-score   support
-
-
-    accuracy                           0.73      2874
-   macro avg       0.52      0.52      0.52      2874
-weighted avg       0.75      0.73      0.74      2874
+Accuracy of model is 75%
 
 
 ## Performance of RandomForestClassifier model
    
-  
-  precision    recall  f1-score   support
-
-           0       0.85      1.00      0.92      2431
-           1       0.50      0.02      0.04       443
-
-    accuracy                           0.85      2874
-   macro avg       0.67      0.51      0.48      2874
-weighted avg       0.79      0.85      0.78      2874
+ Accuracy of model is 80%
 
 
 
