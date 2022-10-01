@@ -10,8 +10,6 @@ number of borrowers based on purpose of loan we did count plot shown below</br>
   
   precision    recall  f1-score   support
 
-           0       0.85      0.82      0.84      2431
-           1       0.18      0.22      0.20       443
 
     accuracy                           0.73      2874
    macro avg       0.52      0.52      0.52      2874
